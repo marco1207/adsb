@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "a": "3ddc66",
+      "r": "D-HDSG",
+      "t": "EC45",
+      "dt": "AIRBUS HELICOPTERS H-145",
+      "c": "A7",
+      "o": "CHX",
+      "do": "DRF Luftrettung",
+      "co": "Germany",
+      "s": "20013",
+      "m": false,
+      "i": true
+    }
+  ]
+}
